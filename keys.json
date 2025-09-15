@@ -1,0 +1,5 @@
+{
+  "data": {
+    "why": "This file is here to cause an error in old versions of Secrez during login, and avoid that Secrez thinks the db is empty and reset it."
+  }
+}
