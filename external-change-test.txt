@@ -1,1 +1,1 @@
-External change from another terminal
+Change from instance 1
